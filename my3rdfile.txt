@@ -2,3 +2,4 @@ hello...i have almost learned two topics of Devops
 which is GIT and Jenkins
 in jenkins there is a error in that how to install jenkins by ubuntu
 and one last we CI/CD project we still learn.. 
+great done
