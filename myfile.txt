@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Website</title>
+  </head>
+  <body>
+    <h1>Welcome to my website</h1>
+    <p>This is a paragraph.</p>
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ul>
+  </body>
+</html>
+This code includes the essential elements of an HTML document: the doctype declaration, the opening and closing html tags, the head section (which contains information about the webpage), and the body section (which contains the content of the webpage).
+
+In this example, the title element in the head section sets the title of the webpage, and the body section contains a header (h1), a paragraph (p), and an unordered list (ul) with three list items (li). You can modify this code as needed to create your own webpage.
+
+
+
+
+
